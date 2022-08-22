@@ -1,0 +1,30 @@
+method 1. Clear Windows 10 Cache Using Disk Cleanup
+Step 1: From the search bar, search for "Disk Cleanup" and press enter to open it.
+Step 2: Now, select the drive you want to clean up.
+Step 3: Select the files that you want to delete and click on the "OK" button.
+
+Method 2. Clear Windows Store Cache
+win+r Type "wsreset.exe" and press the enter key.
+This will clear all the windows store cache and shows the Store after when it will be finished.
+
+Method 3. Deleting the Prefetch Files in Windows 10
+win + r prefetch
+
+Method 4. Clear temp
+win+r temp -. delete all
+
+Method 5. Clear extra temp
+win + r %temp%
+
+Method 6. Limit Startup Processes
+ctrl shift esc - startup
+
+Method 7. Clear DNS Cache in Windows 10
+Step 1: Open Command Prompt.
+Step 2: Type the "ipconfig/flushdns" command in command prompt and press enter the enter key.
+
+Method 8. Uninstall Crapware 
+win add or remove
+
+Method 9. Clear Web Browser Cache in Windows 10
+
